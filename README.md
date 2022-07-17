@@ -8,7 +8,7 @@ Data Cleaning,Created PIVOT Table,Charts and Dashboards in MS Excel
 
 This dataset is taken by the Alex github page for the project purpose.
 Dataset’s location at the github is follow below:
-https://github.com/AlexTheAnalyst/ExcelTutorial/blob/main/Excel%20Project%20Dataset.xlsx
+https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
 
 **Dataset name-- Bike_Buyers_dataset**
 
