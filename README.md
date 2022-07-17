@@ -25,18 +25,31 @@ demographic and personal details
 
 **Column name explanation:**
 ID: Unique ID of the customer
+
 Marial Status: If they are Married or Single
+
 Gender: Female or Male
+
 Income: How much they earn
+
 Children: How many children they have
+
 Education: How much they have studied
+
 Occupation: What they do
+
 Home Owners: Are they home owners or not, Yes or No
+
 Cars: How many cars they have
+
 Commute Distance: How much they drive everyday
+
 Region: In which region they live
+
 Age: Age details
+
 Purchased Bike- Did they purchase the bike or not, Yes or No
+
 
 **Performed Data Cleaning,Sorting,Filtering,Created PIVOT Table,Charts,Graphs and Dashboard**
 
