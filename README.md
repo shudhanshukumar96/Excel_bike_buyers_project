@@ -14,6 +14,8 @@ ID, Marital Status, Gender, Income, Children, Education, Occupation, Home
 Owner, Cars, Commute Distance, Region, Age, Purcahsed Bike
 Dataset is about the customer who purchase the bike or not and his/her all 
 demographic and personal details
+
+
 **Column name explanation:**
 ID: Unique ID of the customer
 Marial Status: If they are Married or Single
