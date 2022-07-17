@@ -38,3 +38,8 @@ Purchased Bike- Did they purchase the bike or not, Yes or No
 **Performed Data Cleaning,Sorting,Filtering,Created PIVOT Table,Charts,Graphs and Dashboard**
 
 Thanks Alex for the beautiful project.
+
+This is all the Project files with details Data Analysis explanation and all charts/graphs, PIVOT TABLE, Dashboard is in Bike_Buyers_Project file
+
+Thanks for checking out.
+
