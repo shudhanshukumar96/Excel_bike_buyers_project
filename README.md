@@ -39,7 +39,7 @@ Purchased Bike- Did they purchase the bike or not, Yes or No
 
 Thanks Alex for the beautiful project.
 
-This is all the Project files with details Data Analysis explanation and all charts/graphs, PIVOT TABLE, Dashboard is in Bike_Buyers_Project file
+All the Project files with details Data Analysis explanation attached above and all charts/graphs, PIVOT TABLE, Dashboard is in Bike_Buyers_Project file
 
 Thanks for checking out.
 
