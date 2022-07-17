@@ -16,6 +16,9 @@ https://github.com/AlexTheAnalyst/ExcelTutorial/blob/main/Excel%20Project%20Dat
 **Column/Field names**
 ID, Marital Status, Gender, Income, Children, Education, Occupation, Home 
 Owner, Cars, Commute Distance, Region, Age, Purcahsed Bike
+
+
+
 Dataset is about the customer who purchase the bike or not and his/her all 
 demographic and personal details
 
