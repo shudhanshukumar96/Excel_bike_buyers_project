@@ -9,7 +9,9 @@ Dataset’s location at the github is follow below:
 https://github.com/AlexTheAnalyst/ExcelTutorial/blob/main/Excel%20Project%20Dataset.xlsx
 
 **Dataset name-- Bike_Buyers_dataset**
-Column names
+
+
+**Column/Field names**
 ID, Marital Status, Gender, Income, Children, Education, Occupation, Home 
 Owner, Cars, Commute Distance, Region, Age, Purcahsed Bike
 Dataset is about the customer who purchase the bike or not and his/her all 
