@@ -1,5 +1,6 @@
 # Excel_bike_buyers_project
 
+Medium Blog:https://medium.com/@shudhanshuamc/ms-excel-project-4664e99f7ca9
 
 **MS EXCEL PROJECT**
 This Project is on Bike Buyers dataset
